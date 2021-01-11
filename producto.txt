@@ -1,0 +1,6 @@
+77789;Shampo;26.5;212
+87879;Llaveros;2.5;1010
+66549;Zapatillas de Hotel;15.5;110
+98519;Basurero de Acero;50.5;160
+12349;Detergentes;7.5;312
+54569;Batas;20.5;310
